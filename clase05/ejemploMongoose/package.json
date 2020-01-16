@@ -1,0 +1,23 @@
+{
+  "name": "ejemplomongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GioArango/NodeJS.git"
+  },
+  "author": "Giovanny Arango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GioArango/NodeJS/issues"
+  },
+  "homepage": "https://github.com/GioArango/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7"
+  }
+}
