@@ -1,0 +1,23 @@
+{
+  "name": "ejemplomongo",
+  "version": "1.0.0",
+  "description": "Just mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GioArango/NodeJS.git"
+  },
+  "author": "Giovanny Arango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GioArango/NodeJS/issues"
+  },
+  "homepage": "https://github.com/GioArango/NodeJS#readme",
+  "dependencies": {
+    "mongodb": "^3.5.0",
+    "request": "^2.88.0"
+  }
+}
